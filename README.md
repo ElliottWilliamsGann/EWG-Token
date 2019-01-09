@@ -3,3 +3,5 @@ EWG's cross-platform blockchain technology for facilitating AI ledger and platfo
 
 
 ![Nim](https://ewgann.com/img/nim1.png)
+
+ ![Solidity](https://en.bitcoinwiki.org/upload/en/images/thumb/d/d5/Solidity.png/400px-Solidity.png)
